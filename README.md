@@ -1,4 +1,3 @@
-
 # Haskell Solutions to Advent of Code 2020
 
 The problems can be found here: [Link](https://adventofcode.com/2020/)
