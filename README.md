@@ -1,3 +1,6 @@
-Solutions for the Advent of Code 2020 [link](https://adventofcode.com/2020/) in Haskell.
+
+# Haskell Solutions to Advent of Code 2020
+
+The problems can be found here: [Link](https://adventofcode.com/2020/)
 
 Files using an extra package can be compiled with `ghc -package parsec 2.hs` for example.
